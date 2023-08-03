@@ -77,8 +77,9 @@ function esVocal(letra) {
    }
       
 }
+git add .
 
-esVocal("b")
+
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
    esPositivo,

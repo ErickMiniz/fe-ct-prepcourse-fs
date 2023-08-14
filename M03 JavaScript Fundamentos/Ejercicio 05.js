@@ -77,7 +77,6 @@ function esVocal(letra) {
    }
       
 }
-git add .
 
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
